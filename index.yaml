@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  arize-operator:
+  - apiVersion: v2
+    appVersion: 10.2.4
+    created: "2025-04-18T16:23:37.835879-07:00"
+    description: A Helm chart to install the Arize Operator
+    digest: 212b6143bf99fd9cbe67c09401efaadaede874e0d30c434099e4d703f063b302
+    name: arize-operator
+    type: application
+    urls:
+    - https://github.com/Arize-ai/helm/releases/download/arize-operator-10.2.4.tgz
+    version: 10.2.4
+generated: "2025-04-18T16:23:37.833692-07:00"
